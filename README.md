@@ -14,7 +14,9 @@ This is a fully responsive Google Gemini-themed web application built using mode
 - Custom styling for buttons, inputs, and conversation bubbles to match Gemini’s look.
 
 ## Screenshots
-![Gemini Clone Screenshot](./src/assets/Screenshot.png)
+<p align="center">
+  <img src="./src/assets/Screenshot.png" alt="Gemini Clone Screenshot" width="800">
+</p>
 
 Technologies Used
 - React.js – Handles the structure, layout, and dynamic rendering of the app.
