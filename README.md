@@ -1,8 +1,12 @@
 # Gemini
 This is a fully responsive Google Gemini-themed web application built using modern web technologies. It replicates the clean layout and intuitive design of the official Google Gemini interface, featuring a sleek UI optimized for both desktop and mobile. While it’s a clone for visual and design purposes, it closely mirrors the look and feel of the original Gemini platform.
 
+---
+
 ## Demo
 🚀 You can view the live demo of the project here: [Click me](https://gemini-s32a.onrender.com/)
+
+---
 
 ## Features
 - Clean and modern UI inspired by the official Google Gemini interface.
@@ -13,10 +17,14 @@ This is a fully responsive Google Gemini-themed web application built using mode
 - Minimal yet functional design optimized for readability and focus.
 - Custom styling for buttons, inputs, and conversation bubbles to match Gemini’s look.
 
+---
+
 ## Screenshots
 <p align="center">
   <img src="./src/assets/Screenshot.png" alt="Gemini Clone Screenshot" width="800">
 </p>
+
+---
 
 Technologies Used
 - React.js – Handles the structure, layout, and dynamic rendering of the app.
@@ -24,6 +32,8 @@ Technologies Used
 - JavaScript (ES6+) – Powers interactive features and chat functionality.
 - React Router – Manages navigation between different pages and chat views.
 - Google Gemini API (via Hugging Face) – Processes user queries and generates AI-powered responses.
+
+---
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
