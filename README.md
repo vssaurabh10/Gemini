@@ -26,7 +26,7 @@ This is a fully responsive Google Gemini-themed web application built using mode
 
 ---
 
-Technologies Used
+## Technologies Used
 - React.js – Handles the structure, layout, and dynamic rendering of the app.
 - CSS3 – Provides styling, layout, animations, and responsive design.
 - JavaScript (ES6+) – Powers interactive features and chat functionality.
